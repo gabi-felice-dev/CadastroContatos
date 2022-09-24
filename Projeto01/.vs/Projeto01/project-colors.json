@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "432f3dc0-52e5-49f0-8367-171ad3e9ad0d": {
+      "ProjectGuid": "432f3dc0-52e5-49f0-8367-171ad3e9ad0d",
+      "DisplayName": "Projeto01.Services.Api",
+      "ColorIndex": 0
+    },
+    "d4a9bdc0-1887-4d59-a3b6-742aa2639b22": {
+      "ProjectGuid": "d4a9bdc0-1887-4d59-a3b6-742aa2639b22",
+      "DisplayName": "Projeto01.Domain.Core",
+      "ColorIndex": 1
+    },
+    "4acff17a-c1c2-42ef-9db7-5caff5aaf496": {
+      "ProjectGuid": "4acff17a-c1c2-42ef-9db7-5caff5aaf496",
+      "DisplayName": "Projeto01.Domain",
+      "ColorIndex": 2
+    },
+    "54014be7-cfd2-41a1-b081-453b9a315618": {
+      "ProjectGuid": "54014be7-cfd2-41a1-b081-453b9a315618",
+      "DisplayName": "Projeto01.Infra.Data.SqlServer",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "14f70013-2493-4ff3-9bc0-4eec36237fb5": {
+      "ProjectGuid": "14f70013-2493-4ff3-9bc0-4eec36237fb5",
+      "DisplayName": "Projeto01.Application",
+      "ColorIndex": 4
+    },
+    "f25b8c37-6f87-49d0-95de-f08ce5eeb6e2": {
+      "ProjectGuid": "f25b8c37-6f87-49d0-95de-f08ce5eeb6e2",
+      "DisplayName": "Projeto01.Infra.Cache.MongoDB",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

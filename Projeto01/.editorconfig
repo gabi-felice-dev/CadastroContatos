@@ -1,0 +1,16 @@
+﻿[*.cs]
+
+# IDE0022: Usar o corpo do bloco para métodos
+dotnet_diagnostic.IDE0022.severity = none
+
+# CS8634: O tipo não pode ser usado como parâmetro de tipo no tipo ou método genérico. A anulabilidade do argumento de tipo não corresponde à restrição 'class'.
+dotnet_diagnostic.CS8634.severity = none
+
+# CS8603: Possível retorno de referência nula.
+dotnet_diagnostic.CS8603.severity = none
+
+# CS8604: Possível argumento de referência nula.
+dotnet_diagnostic.CS8604.severity = none
+
+# CS8602: Desreferência de uma referência possivelmente nula.
+dotnet_diagnostic.CS8602.severity = none

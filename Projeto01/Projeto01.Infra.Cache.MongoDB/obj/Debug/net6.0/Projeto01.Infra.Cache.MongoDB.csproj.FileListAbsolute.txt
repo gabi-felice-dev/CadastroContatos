@@ -1,0 +1,12 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\bin\Debug\net6.0\Projeto01.Infra.Cache.MongoDB.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\bin\Debug\net6.0\Projeto01.Infra.Cache.MongoDB.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\bin\Debug\net6.0\ref\Projeto01.Infra.Cache.MongoDB.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\bin\Debug\net6.0\Projeto01.Infra.Cache.MongoDB.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\obj\Debug\net6.0\Projeto01.Infra.Cache.MongoDB.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\obj\Debug\net6.0\Projeto01.Infra.Cache.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\obj\Debug\net6.0\Projeto01.Infra.Cache.MongoDB.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\obj\Debug\net6.0\Projeto01.Infra.Cache.MongoDB.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\obj\Debug\net6.0\Projeto01.Infra.Cache.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\obj\Debug\net6.0\Projeto01.Infra.Cache.MongoDB.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\obj\Debug\net6.0\ref\Projeto01.Infra.Cache.MongoDB.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto01\Projeto01.Infra.Cache.MongoDB\obj\Debug\net6.0\Projeto01.Infra.Cache.MongoDB.pdb
